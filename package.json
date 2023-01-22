@@ -1,5 +1,5 @@
 {
-  "name": "hackiowa",
+  "name": "fasaan",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "build" : "yarn install --production=false && yarn --cwd ./backend build",
     "build-frontend": "yarn install --production=false && yarn --cwd ./analysis build && yarn --cwd ./frontend build"
   },
-  "author": "trulyronak",
+  "author": "hariketsheth",
   "license": "ISC",
   "private": true,
   "workspaces": [
